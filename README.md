@@ -7,5 +7,8 @@ Some presentations I've made so far.
 ### MBConf v2 - 2020
 - [Conhecendo Infosec jogando CTFs](https://www.youtube.com/watch?v=_TPmwiorGrE)
 
+### FIAP CyberCup - 2020
+- [Rootin' & Lootin' ~ Post Exploitation](https://prezi.com/view/aLBCX6kQZH5MfyvPtJ9S/)
+
 ### SEMAC 17 - XXVII Semana da Computação - UNESP
 - [Red Team Operations](__FINAL__RedTeamOperations_SEMAC.pdf)
