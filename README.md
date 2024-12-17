@@ -1,6 +1,9 @@
 # Presentations
 Some presentations I've made so far
 
+### Vivo Segura Conference - 2024
+- [HACKTH~1: Leveraging ShortNames to maximize XXE impact](slides/bsides_iis_talk.pdf)
+
 ### Bsides SP v19 - 2024
 - [HACKTH~1: Leveraging ShortNames to maximize XXE impact](slides/bsides_iis_talk.pdf)
 
